@@ -1,0 +1,13 @@
+seaborn
+numpy
+pandas
+opencv-python-headless
+matplotlib
+tensorflow
+keras
+keras-tuner
+torch
+torchvision
+scikit-image
+scikit-learn
+tqdm
