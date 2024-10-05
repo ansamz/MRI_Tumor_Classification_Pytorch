@@ -11,3 +11,4 @@ torchvision
 scikit-image
 scikit-learn
 tqdm
+onnx
