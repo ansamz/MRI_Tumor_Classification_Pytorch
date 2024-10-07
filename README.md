@@ -91,3 +91,19 @@ These results demonstrate the model's strong performance on the training set, wi
 ### To Do
 - Further optimize the model for deployment on Jetson Nano using TensorRT.
 - Explore other deep learning architectures for improved classification accuracy.
+
+## 🖥️ Tumor Detector UI
+
+Created a simple user interface for the tumor detector using Tkinter. This allows users to upload an MRI image and get a prediction from our trained model.
+
+![Accuracy](img/ui.png)
+
+### Installation
+
+Before running the UI, you need to install the following dependencies:
+
+```bash
+pip3 install torch torchvision torchaudio
+pip3 install pillow
+sudo apt-get install python3-tk
+```
